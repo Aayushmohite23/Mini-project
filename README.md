@@ -24,9 +24,12 @@ Music Genre detection:
 
 
 
+
+
 Music recommendation system:
 
 
 
 ![Screenshot 2024-05-10 153711](https://github.com/user-attachments/assets/8ba05b6a-792b-42bf-b918-972fd2ad36a6)
 
+Find the project report inside the repository.

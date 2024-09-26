@@ -1,14 +1,31 @@
-# Mini-Project(Music Recommendation System)
+# Mini-Project(Music Genre Detection And Recommendation System)
 HahaHarmony!!
-This is a simple music recommendation system made using simple text processing and python libraries based on lyrical data. The dataset contains of over 53000 songs and the model is trained using 5000 songs. Usage of spotify API is done for better representaion of results (Image/song posters). The project can be used by installing streamlit UI and running on the local computer. The project poster and report is included in the repository.
-This project was a part of our main mini-project which consisted of music-genre detection and recommendation system along with a chatroom feature developed using socket.io.
+
+Many a times, we like a song but are unable to find/tell it’s genre. This can be quite
+important if you want to listen to similar songs and enrich your music experience
+thus we felt the need to provide with genre detection for music as well as recommend
+similar songs. Additionally we have implemented a chatroom feature to help users
+interact with each other based on their liking and share their thoughts and personal
+recommendations.
+So following are the features our website offers:
+• Music genre detection.
+• Music recommendation platform.
+• A chatroom for music enthusiasts to share their views.
 
 Block diagram:
 
 
 ![Block Digram](https://github.com/user-attachments/assets/a4f53a7b-0806-4790-ad36-6266ecb54f61)
 
+Music Genre detection:
+
+
+![Screenshot 2024-05-10 153523](https://github.com/user-attachments/assets/c4107a44-bbd5-4ea1-8131-3b45e39d5585)
+
+
+
 Music recommendation system:
+
 
 
 ![Screenshot 2024-05-10 153711](https://github.com/user-attachments/assets/8ba05b6a-792b-42bf-b918-972fd2ad36a6)
